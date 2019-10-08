@@ -28,8 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://recordit.co/SGSkogKAoC' title ='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://g.recordit.co/wkax7qJc3A.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
